@@ -1,7 +1,7 @@
-Luke Jireh (LJ) Baguio
-***Web Developer***
-> Making a website in the World Wide Web
+LJ (eljae) Baguio
+***Graphic Designer***
+> Making Design for people
 ## Responsibilities
-- Make a website
-- Design a website
-- Design logo for the website
+- Making Design
+- Find Inspiration
+- Excute the product
